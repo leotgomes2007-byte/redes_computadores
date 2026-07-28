@@ -1,1 +1,1 @@
-# redes_computadores
+# redes-computadores
